@@ -1,0 +1,11 @@
+{
+    "name": "iszeak/next-php",
+    "description": "A PHP frameworklight weight PHP framework for REST services",
+    "authors": [
+        {
+            "name": "Isaac adegunle",
+            "email": "isaac.adegunle@gmail.com"
+        }
+    ],
+    "require": {}
+}
